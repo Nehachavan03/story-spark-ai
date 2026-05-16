@@ -29,7 +29,7 @@ const NavListComponent: React.FC<INavListComponentProps> = ({
         <div className="flex items-center space-x-16">
           <div className="hidden md:flex items-center space-x-8">
             <a href="/">
-               <img src={logo} alt="logo" width={50} height={50} />
+              <img src={logo} alt="logo" width={50} height={50} />
             </a>
             <a href="/" className="text-gray-400 hover:text-custom transition">
               HOME
